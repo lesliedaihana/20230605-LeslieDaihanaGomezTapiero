@@ -1,0 +1,40 @@
+ 56  ls
+   57  gi--version
+   58  git --version
+   59  git remote add origin https://github.com/lesliedaihana/20230605-LeslieDaihanaGomezTapiero.git
+   60  git remote add origin "https://github.com/lesliedaihana/20230605-LeslieDaihanaGomezTapiero.git"
+   61  git init
+   62  git remote add origin "https://github.com/lesliedaihana/20230605-LeslieDaihanaGomezTapiero.git"
+   63  git remote v
+   64  git remote -v
+   65  touch comandos.txt  main.js  index.html
+   66  git add..
+   67  git add .
+   68  git commit -m commit 01 de LeslieDaihanaGomezTapiero
+   69  git commit -m "commit 01 de LeslieDaihanaGomezTapiero"
+   70  git push origin main
+   71*
+   72  git branch feature01
+   73  git checkout feature01
+   74  mkdir Terminal Hardware
+   75  cd hardware
+   76  touche resumen.txt
+   77  touch resumen.txt
+   78  cd ..
+   79  cd Terminal
+   80  touch resumen.txt
+   81  git add .
+   82  cd ..
+   83  git add .
+   84  git commit -m "commit 02 de LeslieDaihanaGomezTapiero"
+   85  git push origin feature01
+   86  git branch feature02
+   87  git checkout feature02
+   88  git add .
+   89  git commit -m "commit 03 de LeslieDaihanaGomezTapiero"
+   90  git push origin feature02
+   91  git checkout master
+   92  m comandos.txt "comandosUtilizados.txt "
+   93  mv comandos.txt "comandosUtilizados.txt "
+   94  history 30
+   95  history 40
